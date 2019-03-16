@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BitonicSort:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BitonicSort_jar</output-path>
+    <root id="archive" name="BitonicSort.jar">
+      <element id="module-output" name="BitonicSort" />
+    </root>
+  </artifact>
+</component>
